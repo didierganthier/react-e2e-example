@@ -15,7 +15,7 @@ function Home() {
         <Header />
         <div className="page-content">
             <h1 className="main-tagline">
-                <img src={cypress} alt="" className="cypress-logo"/> Cypress example for React
+                <img src={cypress} alt="" className="cypress-logo"/> Cypress example using React
             </h1>
         </div>
     </main>
